@@ -1,0 +1,6 @@
+app_name = "forging_erp"
+app_title = "Forging ERP"
+app_publisher = "Author"
+app_description = "Forging ERP"
+app_email = "admin@example.com"
+app_license = "mit"
